@@ -1,0 +1,30 @@
+{
+  "wav_counts": {
+    "train": {
+      "배경 소음": 72,
+      "아메리카노": 18,
+      "카페라떼": 18
+    },
+    "test": {
+      "배경 소음": 12,
+      "아메리카노": 6,
+      "카페라떼": 6
+    }
+  },
+  "TM_window_counts": {
+    "카페라떼_티처블머신에넣기.zip": 96,
+    "아메리카노_티처블머신에넣기.zip": 100,
+    "배경_소음_티처블머신에넣기.zip": 72
+  },
+  "train_test_same_audio": 0,
+  "train_test_same_voice": 0,
+  "synthetic_not_human_recordings": true,
+  "TM_upload_and_new_model_accuracy": "아직 검증하지 않음",
+  "languages": [
+    "한국어",
+    "영어",
+    "중국어"
+  ],
+  "sample_rate": 44100,
+  "speech_rate": "기본 속도, 시간 압축 없음"
+}

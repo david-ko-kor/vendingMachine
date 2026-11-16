@@ -1,0 +1,13 @@
+﻿filename,expected_class,split,id,page,author,license,license_url,changes
+시험사진_01.jpg,아메리카노,test,ame15,https://commons.wikimedia.org/wiki/File:Eggs_On_Toast_-_FIKA_2023-09-02.jpg,Andy Li,CC0,http://creativecommons.org/publicdomain/zero/1.0/deed.en,resized/padded to 512x512; subject crop
+시험사진_02.jpg,아메리카노,test,ame08,https://commons.wikimedia.org/wiki/File:Caff%C3%A8_americano_in_the_Philippines.jpg,Ramon FVelasquez,CC BY-SA 3.0,https://creativecommons.org/licenses/by-sa/3.0,resized/padded to 512x512
+시험사진_03.jpg,아메리카노,test,ame02,"https://commons.wikimedia.org/wiki/File:A_cup_of_Americano_in_Lano_Coffee_(Palembang,_SS).jpg",Firzafp,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,resized/padded to 512x512
+시험사진_04.jpg,카페라떼,test,lat07,https://commons.wikimedia.org/wiki/File:Cafe_Latte_(8420791596).jpg,Melv_L - MACASR,CC BY-SA 2.0,https://creativecommons.org/licenses/by-sa/2.0,resized/padded to 512x512
+시험사진_05.jpg,카페라떼,test,lat16,https://commons.wikimedia.org/wiki/File:Latte_at_firefly_coffee_house.jpg,Sajith T S,CC BY-SA 2.0,https://creativecommons.org/licenses/by-sa/2.0,resized/padded to 512x512
+시험사진_06.jpg,카페라떼,test,lat03,https://commons.wikimedia.org/wiki/File:2019-03-17_Caff%C3%A8_latte.jpg,Maksym Kozlenko,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,resized/padded to 512x512
+시험사진_07.jpg,카페라떼,test,lat12,https://commons.wikimedia.org/wiki/File:Caffe_latte.jpg,Posma766hi,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,resized/padded to 512x512
+시험사진_08.jpg,아메리카노,test,ame11,https://commons.wikimedia.org/wiki/File:CodazziAmericanCoffee2.jpg,No machine-readable author provided. 小太刀~commonswiki assumed (based on copyright claims).,CC BY-SA 3.0,http://creativecommons.org/licenses/by-sa/3.0/,resized/padded to 512x512
+테스트용_사진/시험사진_09.jpg,배경,test,bg06,https://commons.wikimedia.org/wiki/File:Bench_Accounting_2015-12-04_(Unsplash).jpg,Bench Accounting benchaccounting,CC0,http://creativecommons.org/publicdomain/zero/1.0/deed.en,resized/padded to 512x512
+테스트용_사진/시험사진_10.jpg,배경,test,bg09,https://commons.wikimedia.org/wiki/File:At_Fuerteventura_2022_040.jpg,Photograph by Mike Peel (www.mikepeel.net).,CC BY-SA 4.0,https://creativecommons.org/licenses/by-sa/4.0,resized/padded to 512x512
+테스트용_사진/시험사진_11.jpg,배경,test,bg13,https://commons.wikimedia.org/wiki/File:Asad_Rustum%27s_Desk_I.png,Unknown Photographer,Public domain,,resized/padded to 512x512
+테스트용_사진/시험사진_12.jpg,배경,test,bg15,https://commons.wikimedia.org/wiki/File:Biecz_muzeum_regionalne_059.JPG,myself (User:Piotrus),CC BY-SA 3.0,https://creativecommons.org/licenses/by-sa/3.0,resized/padded to 512x512

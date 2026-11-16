@@ -1,0 +1,171 @@
+실제 촬영 사진 / Wikimedia Commons
+각 사진의 라이선스는 아래 표기에 따릅니다. 저작자·출처·라이선스를 함께 유지하세요.
+원본을 수업용으로 축소·여백 추가했으며 일부는 컵 중심으로 잘랐습니다. AI 생성 사진은 사용하지 않았습니다.
+
+train/사진_01.jpg | Caffe latte (6318133889).jpg
+저작자: cyclonebill from Copenhagen, Denmark
+출처: https://commons.wikimedia.org/wiki/File:Caffe_latte_(6318133889).jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+train/사진_02.jpg | Latte Colombia.jpg
+저작자: VeraVidiVici
+출처: https://commons.wikimedia.org/wiki/File:Latte_Colombia.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512; subject crop
+
+train/사진_03.jpg | A hand gently holds a glass cup of latte.jpg
+저작자: Shixart1985
+출처: https://commons.wikimedia.org/wiki/File:A_hand_gently_holds_a_glass_cup_of_latte.jpg
+라이선스: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+수정: resized/padded to 512x512
+
+train/사진_04.jpg | Coffe Latte.jpg
+저작자: SilminaJ
+출처: https://commons.wikimedia.org/wiki/File:Coffe_Latte.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/사진_05.jpg | Tea at Meo Plants & Cafe 2023-09-16.jpg
+저작자: Andy Li
+출처: https://commons.wikimedia.org/wiki/File:Tea_at_Meo_Plants_%26_Cafe_2023-09-16.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512; subject crop
+
+train/사진_06.jpg | 투썸플레이스 레드벨벳, 블랙 아메리카노 1.jpg
+저작자: 지니
+출처: https://commons.wikimedia.org/wiki/File:%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4_%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3,_%EB%B8%94%EB%9E%99_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8_1.jpg
+라이선스: CC BY-SA 2.0 kr https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en
+수정: resized/padded to 512x512; subject crop
+
+train/사진_07.jpg | 투썸플레이스 레드벨벳, 블랙 아메리카노 2.jpg
+저작자: 지니
+출처: https://commons.wikimedia.org/wiki/File:%ED%88%AC%EC%8D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4_%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3,_%EB%B8%94%EB%9E%99_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8_2.jpg
+라이선스: CC BY-SA 2.0 kr https://creativecommons.org/licenses/by-sa/2.0/kr/deed.en
+수정: resized/padded to 512x512; subject crop
+
+train/사진_08.jpg | Latte at Emporio Rulli.jpg
+저작자: Mx. Granger
+출처: https://commons.wikimedia.org/wiki/File:Latte_at_Emporio_Rulli.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512
+
+train/사진_09.jpg | Café americano 2026.jpg
+저작자: F123
+출처: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_americano_2026.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512
+
+train/사진_10.jpg | Espresso Americano.jpeg
+저작자: User:Sameer.siddhanti
+출처: https://commons.wikimedia.org/wiki/File:Espresso_Americano.jpeg
+라이선스: Public domain 
+수정: resized/padded to 512x512
+
+train/사진_11.jpg | (A Donde Vamos, Quito) One Latte.JPG
+저작자: David Adam Kess
+출처: https://commons.wikimedia.org/wiki/File:(A_Donde_Vamos,_Quito)_One_Latte.JPG
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/사진_12.jpg | Americano Coffee (16608533770).jpg
+저작자: Mark Morgan from Trinidad
+출처: https://commons.wikimedia.org/wiki/File:Americano_Coffee_(16608533770).jpg
+라이선스: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+수정: resized/padded to 512x512
+
+train/사진_13.jpg | Caffe latte (4751472016).jpg
+저작자: cyclonebill from Copenhagen, Denmark
+출처: https://commons.wikimedia.org/wiki/File:Caffe_latte_(4751472016).jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+train/사진_14.jpg | Flickr - cyclonebill - Caffe latte.jpg
+저작자: cyclonebill
+출처: https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Caffe_latte.jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+train/사진_15.jpg | Cinnamon bun and black americano - Waitrose café, Worthing 2026-05-17.jpg
+저작자: Andy Li
+출처: https://commons.wikimedia.org/wiki/File:Cinnamon_bun_and_black_americano_-_Waitrose_caf%C3%A9,_Worthing_2026-05-17.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512; subject crop
+
+train/사진_16.jpg | Caffè Latte at The Royal Albion Hotel, Broadstairs, Kent, England.jpg
+저작자: Acabashi
+출처: https://commons.wikimedia.org/wiki/File:Caff%C3%A8_Latte_at_The_Royal_Albion_Hotel,_Broadstairs,_Kent,_England.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/사진_17.jpg | 2026.02.27 Napoleon Kyiv Cake Coffee Americano in Kaviarnia Navahrudak Hrodna Grodno Region Belarus.jpg
+저작자: Rabbi Mendl
+출처: https://commons.wikimedia.org/wiki/File:2026.02.27_Napoleon_Kyiv_Cake_Coffee_Americano_in_Kaviarnia_Navahrudak_Hrodna_Grodno_Region_Belarus.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512; subject crop
+
+train/사진_18.jpg | Caffe latte (6942059700).jpg
+저작자: cyclonebill from Copenhagen, Denmark
+출처: https://commons.wikimedia.org/wiki/File:Caffe_latte_(6942059700).jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+train/사진_19.jpg | Americano.jpg
+저작자: Gaurav_Dhwaj_Khadka
+출처: https://commons.wikimedia.org/wiki/File:Americano.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/사진_20.jpg | Café americano et jus de mangue 2026.jpg
+저작자: F123
+출처: https://commons.wikimedia.org/wiki/File:Caf%C3%A9_americano_et_jus_de_mangue_2026.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512; subject crop
+
+test/시험사진_01.jpg | Eggs On Toast - FIKA 2023-09-02.jpg
+저작자: Andy Li
+출처: https://commons.wikimedia.org/wiki/File:Eggs_On_Toast_-_FIKA_2023-09-02.jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512; subject crop
+
+test/시험사진_02.jpg | Caffè americano in the Philippines.jpg
+저작자: Ramon FVelasquez
+출처: https://commons.wikimedia.org/wiki/File:Caff%C3%A8_americano_in_the_Philippines.jpg
+라이선스: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+수정: resized/padded to 512x512
+
+test/시험사진_03.jpg | A cup of Americano in Lano Coffee (Palembang, SS).jpg
+저작자: Firzafp
+출처: https://commons.wikimedia.org/wiki/File:A_cup_of_Americano_in_Lano_Coffee_(Palembang,_SS).jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+test/시험사진_04.jpg | Cafe Latte (8420791596).jpg
+저작자: Melv_L - MACASR
+출처: https://commons.wikimedia.org/wiki/File:Cafe_Latte_(8420791596).jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+test/시험사진_05.jpg | Latte at firefly coffee house.jpg
+저작자: Sajith T S
+출처: https://commons.wikimedia.org/wiki/File:Latte_at_firefly_coffee_house.jpg
+라이선스: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+수정: resized/padded to 512x512
+
+test/시험사진_06.jpg | 2019-03-17 Caffè latte.jpg
+저작자: Maksym Kozlenko
+출처: https://commons.wikimedia.org/wiki/File:2019-03-17_Caff%C3%A8_latte.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+test/시험사진_07.jpg | Caffe latte.jpg
+저작자: Posma766hi
+출처: https://commons.wikimedia.org/wiki/File:Caffe_latte.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+test/시험사진_08.jpg | CodazziAmericanCoffee2.jpg
+저작자: No machine-readable author provided. 小太刀~commonswiki assumed (based on copyright claims).
+출처: https://commons.wikimedia.org/wiki/File:CodazziAmericanCoffee2.jpg
+라이선스: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+수정: resized/padded to 512x512

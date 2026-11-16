@@ -1,0 +1,25 @@
+﻿file,split,language,locale,expected_class,spoken_text,voice,engine,synthetic,duration,sha256,student_test_filename
+test/배경/배경_001.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,3bb5a7c2b4ccb65ed03e0d27b20b8ec424becd596da96d39b0af8131cba602f9,배경소음_01_공통.wav
+test/배경/배경_002.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,abe814581c318772b7745bf3e9e5d2e267fe00d8f94f9add2c1a6184350ca317,배경소음_02_공통.wav
+test/배경/배경_003.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,049b58a5e1a2a4bc2f1cfa80370ccddd40b482c1ee6bae5c464a13591fb59c12,배경소음_03_공통.wav
+test/배경/배경_004.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,f79272a58f386b22b8b91ce6e8516317f1d3b1b3fc7bc5eb1359393fc9cb5997,배경소음_04_공통.wav
+test/배경/배경_005.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,3adc5794945888428e85187fb8b4eb48c21808f5fd62ef1eead9826848558d86,배경소음_05_공통.wav
+test/배경/배경_006.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,6023305d3fe602ebe7c27199243fd075c9de18957a87eaf4b38f473e100da668,배경소음_06_공통.wav
+test/배경/배경_007.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,ffab9423495a275242294f6175dfda0e27b06ae21b20456afa33e9149945a7ed,배경소음_07_공통.wav
+test/배경/배경_008.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,95fea677824616bea7c9be823a546994fb388f11b5441a4736b06120839441e9,배경소음_08_공통.wav
+test/배경/배경_009.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,5017993422d30b8ca24d4fcfe4d73eac33ee249c2fb3ceaef5f2c20423e1125a,배경소음_09_공통.wav
+test/배경/배경_010.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,e193970dfd893eae62aec0c40be7b84b7b0e74d883cb584c7c50123a179c6588,배경소음_10_공통.wav
+test/배경/배경_011.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,6a39857e415eea0d25855cb1d1d933f0f3ddc105859e81a7e7a6df5ca0e0ff2a,배경소음_11_공통.wav
+test/배경/배경_012.wav,test,공통,,배경 소음,,procedural noise,numpy,True,2.0,4850bbf8eab3cb4ea05f1a3dd9721a24857f84229dcc35de240ea1fdedfe69a1,배경소음_12_공통.wav
+test/영어/아메리카노/en-US-JennyNeural_1.wav,test,영어,en-US,아메리카노,Americano.,en-US-JennyNeural,Microsoft Edge neural TTS,True,1.0137,41e7ccd74951d1795b299288e3dee79e5450cf39fc395dde0842ab67f766b24c,아메리카노_13_영어.wav
+test/영어/아메리카노/en-US-JennyNeural_2.wav,test,영어,en-US,아메리카노,"An Americano, please.",en-US-JennyNeural,Microsoft Edge neural TTS,True,1.7454,c206282ee258cb7b2969be330065556e64d818c17f2c2d9c50156b7087f03b1f,아메리카노_14_영어.wav
+test/영어/카페라떼/en-US-JennyNeural_1.wav,test,영어,en-US,카페라떼,Caffè latte.,en-US-JennyNeural,Microsoft Edge neural TTS,True,1.0629,feb7e8305862a1052872fb302dc3d2831396c035f5d7228a657878ad27f62a69,카페라떼_15_영어.wav
+test/영어/카페라떼/en-US-JennyNeural_2.wav,test,영어,en-US,카페라떼,"A latte, please.",en-US-JennyNeural,Microsoft Edge neural TTS,True,1.4778,bf8b7d395265caf73ea116d31daa302cf026d70780a620edb27d122cd35912b2,카페라떼_16_영어.wav
+test/중국어/아메리카노/zh-CN-XiaoyiNeural_1.wav,test,중국어,zh-CN,아메리카노,美式咖啡。,zh-CN-XiaoyiNeural,Microsoft Edge neural TTS,True,0.9721,c25d9dc93353714d020177142e9f3412f410a1c3e91538b1c3db1869f16737de,아메리카노_17_중국어.wav
+test/중국어/아메리카노/zh-CN-XiaoyiNeural_2.wav,test,중국어,zh-CN,아메리카노,一杯美式咖啡。,zh-CN-XiaoyiNeural,Microsoft Edge neural TTS,True,1.2879,0cfbf57ecba311392f0bc6e18e14581751a7542076cd141e8f790e0a050e1faa,아메리카노_18_중국어.wav
+test/중국어/카페라떼/zh-CN-XiaoyiNeural_1.wav,test,중국어,zh-CN,카페라떼,拿铁。,zh-CN-XiaoyiNeural,Microsoft Edge neural TTS,True,0.7466,39d1b50d4839bf32fce5f39f159ebbceb8d690a0b8e79c9c3fd4c16bc256f767,카페라떼_19_중국어.wav
+test/중국어/카페라떼/zh-CN-XiaoyiNeural_2.wav,test,중국어,zh-CN,카페라떼,一杯拿铁。,zh-CN-XiaoyiNeural,Microsoft Edge neural TTS,True,1.031,25407c45dd2426a584779dbec98c71e04f87767138e8ad8d93b79b5f3cdfcc71,카페라떼_20_중국어.wav
+test/한국어/아메리카노/ko-KR-HyunsuMultilingualNeural_1.wav,test,한국어,ko-KR,아메리카노,아메리카노,ko-KR-HyunsuMultilingualNeural,Microsoft Edge neural TTS,True,1.1086,4557d8b30651e9da540835b6a508fe7a63c286b6a7a28b7312953c12cb01b9eb,아메리카노_21_한국어.wav
+test/한국어/아메리카노/ko-KR-HyunsuMultilingualNeural_2.wav,test,한국어,ko-KR,아메리카노,아메리카노 주세요.,ko-KR-HyunsuMultilingualNeural,Microsoft Edge neural TTS,True,1.417,e93269724679305b467ac10ed578a0f911f94efec6cf8742679914eb2d5b3492,아메리카노_22_한국어.wav
+test/한국어/카페라떼/ko-KR-HyunsuMultilingualNeural_1.wav,test,한국어,ko-KR,카페라떼,카페라떼,ko-KR-HyunsuMultilingualNeural,Microsoft Edge neural TTS,True,0.9929,071a86b0d4b68c6fcc40370d14a3bac6ae37a589964139870850b9650e1eb669,카페라떼_23_한국어.wav
+test/한국어/카페라떼/ko-KR-HyunsuMultilingualNeural_2.wav,test,한국어,ko-KR,카페라떼,카페라떼 주세요.,ko-KR-HyunsuMultilingualNeural,Microsoft Edge neural TTS,True,1.3677,867296054b263c135b2e55aa690faa7a4864790a8b0eb5a043800b0113726f49,카페라떼_24_한국어.wav

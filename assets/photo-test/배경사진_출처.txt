@@ -1,0 +1,74 @@
+배경 사진은 실제 촬영 사진입니다. 원래 사진의 라이선스에 따라 출처·저작자·이용 조건을 함께 유지하세요.
+
+train/배경_01.jpg | 22 West - home office.jpg
+저작자: AgnosticPreachersKid
+출처: https://commons.wikimedia.org/wiki/File:22_West_-_home_office.jpg
+라이선스: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+수정: resized/padded to 512x512
+
+train/배경_02.jpg | A white desk is arranged in a cozy room.jpg
+저작자: Shixart1985
+출처: https://commons.wikimedia.org/wiki/File:A_white_desk_is_arranged_in_a_cozy_room.jpg
+라이선스: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+수정: resized/padded to 512x512
+
+train/배경_03.jpg | Bed Bath & Beyond Miracle Marketplace is Closed - Desk.jpg
+저작자: Phillip Pessar
+출처: https://commons.wikimedia.org/wiki/File:Bed_Bath_%26_Beyond_Miracle_Marketplace_is_Closed_-_Desk.jpg
+라이선스: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+수정: resized/padded to 512x512
+
+train/배경_04.jpg | Bancs pupitres.jpg
+저작자: Gilbert Ndihokubwayo
+출처: https://commons.wikimedia.org/wiki/File:Bancs_pupitres.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/배경_05.jpg | At Tenerife 2023 1611.jpg
+저작자: Photograph by Mike Peel (www.mikepeel.net).
+출처: https://commons.wikimedia.org/wiki/File:At_Tenerife_2023_1611.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+train/배경_06.jpg | 17thCenturyDeskFranzMayer.jpg
+저작자: AlejandroLinaresGarcia
+출처: https://commons.wikimedia.org/wiki/File:17thCenturyDeskFranzMayer.jpg
+라이선스: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+수정: resized/padded to 512x512
+
+train/배경_07.jpg | Bernini's desk.JPG
+저작자: me
+출처: https://commons.wikimedia.org/wiki/File:Bernini%27s_desk.JPG
+라이선스: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+수정: resized/padded to 512x512
+
+train/배경_08.jpg | Empty table setting plate fork knife (42585288225).jpg
+저작자: Stock Catalog
+출처: https://commons.wikimedia.org/wiki/File:Empty_table_setting_plate_fork_knife_(42585288225).jpg
+라이선스: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+수정: resized/padded to 512x512
+
+test/배경_01.jpg | Bench Accounting 2015-12-04 (Unsplash).jpg
+저작자: Bench Accounting benchaccounting
+출처: https://commons.wikimedia.org/wiki/File:Bench_Accounting_2015-12-04_(Unsplash).jpg
+라이선스: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+수정: resized/padded to 512x512
+
+test/배경_02.jpg | At Fuerteventura 2022 040.jpg
+저작자: Photograph by Mike Peel (www.mikepeel.net).
+출처: https://commons.wikimedia.org/wiki/File:At_Fuerteventura_2022_040.jpg
+라이선스: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+수정: resized/padded to 512x512
+
+test/배경_03.jpg | Asad Rustum's Desk I.png
+저작자: Unknown Photographer
+출처: https://commons.wikimedia.org/wiki/File:Asad_Rustum%27s_Desk_I.png
+라이선스: Public domain 
+수정: resized/padded to 512x512
+
+test/배경_04.jpg | Biecz muzeum regionalne 059.JPG
+저작자: myself (User:Piotrus)
+출처: https://commons.wikimedia.org/wiki/File:Biecz_muzeum_regionalne_059.JPG
+라이선스: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+수정: resized/padded to 512x512
+
